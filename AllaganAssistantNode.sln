@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllaganAssistantNode", "AllaganAssistantNode\AllaganAssistantNode.csproj", "{DE90BB3F-7BDB-4C51-B156-22A967C6BAB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommons", "ECommons\ECommons\ECommons.csproj", "{705B3635-0DE4-484C-9C1B-CB51CBDA5E1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtterGui", "OtterGui\OtterGui.csproj", "{29D4FD84-ACC1-4E4A-9236-639BCD66133D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE90BB3F-7BDB-4C51-B156-22A967C6BAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE90BB3F-7BDB-4C51-B156-22A967C6BAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE90BB3F-7BDB-4C51-B156-22A967C6BAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE90BB3F-7BDB-4C51-B156-22A967C6BAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705B3635-0DE4-484C-9C1B-CB51CBDA5E1A}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{705B3635-0DE4-484C-9C1B-CB51CBDA5E1A}.Debug|Any CPU.Build.0 = Debug|x64
+		{705B3635-0DE4-484C-9C1B-CB51CBDA5E1A}.Release|Any CPU.ActiveCfg = Release|x64
+		{705B3635-0DE4-484C-9C1B-CB51CBDA5E1A}.Release|Any CPU.Build.0 = Release|x64
+		{29D4FD84-ACC1-4E4A-9236-639BCD66133D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D4FD84-ACC1-4E4A-9236-639BCD66133D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D4FD84-ACC1-4E4A-9236-639BCD66133D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D4FD84-ACC1-4E4A-9236-639BCD66133D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

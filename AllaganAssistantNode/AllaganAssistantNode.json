@@ -1,0 +1,26 @@
+{
+  "Author": "NostraThomas",
+  "Name": "Allagan Assistant Node",
+  "InternalName": "AllaganAssistantNode",
+  "Description": "A ChatGPT interface built for Final Fantasy 14. Get recommendations for your next adventure, learn more about your game time, and even control the game all with the power of AI.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 11,
+  "TestingDalamudApiLevel": 11,
+  "Tags": [
+    "chat",
+    "ai",
+    "assistant",
+    "automation"
+  ],
+  "CategoryTags": [
+    "Utility"
+  ],
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IsTestingExclusive": false,
+  "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
+  "Punchline": "Hello, how can I help you?",
+  "AcceptsFeedback": true
+}
